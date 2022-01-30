@@ -51,4 +51,9 @@ Here are some ideas to get you started:
 </div>
   
 	
-
+<h1 align="center"> 🛠 Tech Stack 🛠 </h1>
+<h2 align="center"> 🛠 Tech Stack 🛠 </h2>
+<h3 align="center"> 🛠 Tech Stack 🛠 </h3>
+<h4 align="center"> 🛠 Tech Stack 🛠 </h4>
+<h5 align="center"> 🛠 Tech Stack 🛠 </h5>
+<h6 align="center"> 🛠 Tech Stack 🛠 </h6>
