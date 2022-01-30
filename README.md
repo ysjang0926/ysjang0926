@@ -42,6 +42,9 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api?username=ysjang0926&theme=vue&show_icons=true"/></a>
 </p>
 
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ysjang0926)](https://github.com/anuraghazra/github-readme-stats)
+
 <h3 align="center">🎇 My Hits 🎇 </h3>
 
 <div align=center>
