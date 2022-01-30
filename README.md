@@ -36,7 +36,6 @@ Here are some ideas to get you started:
 <h3 align="center">✒ Blog ✒</h3>
 <p align="center">https://ysjang0926.github.io</p>
 
-
 <h3 align="center">📊 GitHub Stats 📊 </h3>
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=ysjang0926&theme=vue&show_icons=true"/></a>
