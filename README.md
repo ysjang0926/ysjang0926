@@ -39,11 +39,10 @@ Here are some ideas to get you started:
 
 <h3 align="center">📊 GitHub Stats 📊 </h3>
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=ysjang0926&theme=vue&show_icons=true"/></a>
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ysjang0926&&show_icons=true&theme=vue)
 </p>
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ysjang0926)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="center">🎇 My Hits 🎇 </h3>
 
